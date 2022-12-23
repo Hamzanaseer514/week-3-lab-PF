@@ -10,7 +10,7 @@ cout<<" Enter name :";
 cin>>name;
 cout<<" Enter matric marks :";
 cin>>matricmarks;
-cout<<" Enter intermediate(first year) marks :";
+cout<<" Enter intermediate marks :";
 cin>>intermediatemarks;
 cout<<" Enter Ecat marks :";
 cin>>ecatmarks;
